@@ -7,3 +7,7 @@ A C to Forth compiler using direct translation writen in C and using Bison for i
 ## Set up environment
 
 Make sure you have bison and a gcc compiler before utilizing the shared code
+
+## Contributors
+
+This project was carried on by [Diego Vicente](https://github.com/diegovicen/) and [me](https://github.com/daniriesgo/).
