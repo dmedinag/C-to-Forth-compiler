@@ -2,11 +2,11 @@
 
 ## Introduction
 
-A C to Forth compiler using direct translation writen in C and using Bison for its purposes. Read report.pdf for more info about the project.
+A C to Forth compiler using direct translation writen in C and using Bison for its purposes. Read [report.pdf](https://github.com/daniRiesgo/C-to-Forth-compiler/blob/master/report.pdf) for more info about the project.
 
 ## Set up environment
 
-Make sure you have bison and a gcc compiler before utilizing the shared code
+Make sure you have bison and a gcc compiler before utilizing the shared code.
 
 ## Contributors
 
